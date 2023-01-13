@@ -11,7 +11,11 @@ const Footer = () => {
       <div className="footer">
          <div className="social-link">
 
+         <a href="https://github.com/jameskayode"> </a>
       <img src={Github} alt="" />
+     
+
+
       <img src={Instagram} alt="" />
       <img src={LinkedIn} alt="" />
 

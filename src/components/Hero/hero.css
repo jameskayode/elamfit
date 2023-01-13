@@ -105,7 +105,7 @@
       gap: 1rem;
       background-color: var(--darkGrey);
       width: fit-content;
-      align-items: start;
+      
       border-radius: 5px;
       position: absolute;
       right: 4rem;
